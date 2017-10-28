@@ -5,5 +5,7 @@ for(int i=0;i<=1000;i++)
 		console.whileLineine(i);
 	if(i%10==0)
 		console.writeline(i);
+	if(i%15==0)
+		console.writeline(i);
 }
 console .readkey();
