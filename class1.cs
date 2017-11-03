@@ -12,4 +12,5 @@ for(int i=0;i<=1000;i++)
 }
 
 console.whileLineine("end");
+console.whileLineine("20171103");
 console .readkey();
