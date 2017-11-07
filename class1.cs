@@ -1,3 +1,4 @@
+console.writeline(datetime.now());
 console.whileLineine("0到1000中正数偶数有:");
 for(int i=0;i<=1000;i++)
 {
